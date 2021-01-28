@@ -1,6 +1,7 @@
-var character = "mario";
-console.log(character);
-var inputs = document.querySelectorAll("input");
-inputs.forEach(function (input) {
-  console.log(input);
-});
+//
+var character;
+var age;
+var isLoggedIn;
+character = 'me';
+var ninja;
+ninja = [1, 2];
